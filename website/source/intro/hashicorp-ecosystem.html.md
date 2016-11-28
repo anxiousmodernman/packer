@@ -29,7 +29,7 @@ how Atlas connects them to create a full application delivery workflow.
 ![Atlas Workflow](docs/atlas-workflow.png)
 
 [Atlas](https://atlas.hashicorp.com/?utm_source=packer&utm_campaign=HashicorpEcosystem)
-is HashiCorp's only commercial product. It unites Packer, Terraform, and Consul
+is a HashiCorp commercial product. It unites Packer, Terraform, and Consul
 to make application delivery a versioned, auditable, repeatable, and
 collaborative process.
 
